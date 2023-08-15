@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
  1. Clone the Repository
 
 
-git clone https://github.com/your-username/visual-dashboard.git
+git clone [https://github.com/your-username/visual-dashboard.git](https://github.com/Basavarajkd/Data-Visualization-Dashboard/tree/master)
 cd visual-dashboard
 
 
@@ -55,6 +55,7 @@ mvn spring-boot:run
 The application will start and listen on a specified port.
 
 Usage
+
 API Endpoints
 The application provides the following API endpoint to fetch data with optional filtering:
 
